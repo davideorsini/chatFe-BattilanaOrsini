@@ -1,0 +1,8 @@
+********************************************************
+ Chat Server started @ Mon May  4 08:24:46 2015
+
+********************************************************
+		DATA				EVENTO			NOME EVENTO
+
+Mon May  4 08:24:50 2015:	login:	      pit
+Mon May  4 08:24:52 2015:	registrazione:	Errore: username gia' loggato
